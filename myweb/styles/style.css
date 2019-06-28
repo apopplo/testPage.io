@@ -1,0 +1,35 @@
+p {
+    color: #ff004c;
+}
+li{
+      color: rgb(119, 0, 255);
+}
+h1 {
+    font-size: 5em;
+    text-align: center;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+  
+p, li ,a ,button{
+    font-size: 2em;    
+    line-height: 1.5em;
+    letter-spacing: 0.2em;
+}
+button{
+    margin:0 auto;
+}
+html {
+    background-color: rgb(155, 167, 179);
+}
+body {
+    width: 640px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 1em 3% 5%; /*上右下左*/
+    border: 0.3em solid black;
+  }
+img{
+    display: block;
+    margin: 0 auto;
+}
